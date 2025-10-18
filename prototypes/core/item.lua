@@ -8,7 +8,7 @@ data:extend({
     localised_description = {
       "item-description.overclock-module"
     },
-    icon = "__shiboubouya-dn-tube__/graphics/icons/overclock-module-4.png",
+    icon = "__all-planets-pack-tweaks__/graphics/icons/overclock-module-4.png",
     subgroup = "module",
     color_hint = {
       text = "P"

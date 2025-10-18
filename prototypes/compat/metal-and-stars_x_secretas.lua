@@ -19,7 +19,7 @@ if mods["metal-and-stars"] and mods["secretas"] then
           {
             type = "technology",
             name = "overclock-module-4",
-            icon = "__shiboubouya-dn-tube__/graphics/technology/overclock-module-4.png",
+            icon = "__all-planets-pack-tweaks__/graphics/technology/overclock-module-4.png",
             icon_size = 256,
             prerequisites = {
               "planet-discovery-secretas",

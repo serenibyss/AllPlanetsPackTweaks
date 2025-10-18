@@ -1,2 +1,2 @@
-require("__shiboubouya-dn-tube__.prototypes.core.item")
-require("__shiboubouya-dn-tube__.prototypes.core.recipe")
+require("__all-planets-pack-tweaks__.prototypes.core.item")
+require("__all-planets-pack-tweaks__.prototypes.core.recipe")

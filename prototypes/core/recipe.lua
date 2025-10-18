@@ -4,7 +4,7 @@ data:extend({
     name = "overclock-module-4",
     enabled = false,
     category = "electronics",
-    icon = "__shiboubouya-dn-tube__/graphics/icons/overclock-module-4.png",
+    icon = "__all-planets-pack-tweaks__/graphics/icons/overclock-module-4.png",
     ingredients = {
       { type = "item", name = "overclock-module-3", amount = 4 },
       { type = "item", name = "advanced-circuit", amount = 7 },
