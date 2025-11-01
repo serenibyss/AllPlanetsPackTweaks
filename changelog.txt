@@ -1,4 +1,19 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: Nov. 1 2025
+  Major Features:
+    - Pelagos
+      - Added config to remove Pelagos science spoilage
+    - Pelagos + Castra
+      - Added engine unit casting productivity bonus from engine productivity research
+    - Planetaris: Hyarion
+      - Added config to adjust Assembling machine 4 rocket capacity
+    - Metal and Stars + Dea Dia System
+      - Added config for previously existing Overclock module 4 addition
+  Info:
+    - Renamed mod
+    - Updated thumbnail
+---------------------------------------------------------------------------------------------------
 Version: 0.0.6
 Date: Aug. 5 2025
   Changes:
