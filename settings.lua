@@ -14,5 +14,15 @@ data:extend({
     localised_description = "app-tweaks-decomposition-science-no-spoilage",
     setting_type = "startup",
     default_value = "true"
+  },
+  {
+    type = "int-setting",
+    name = "app-tweaks-assembler-4-rocket-stack",
+    localised_name = "app-tweaks-assembler-4-rocket-stack",
+    localised_description = "app-tweaks-assembler-4-rocket-stack",
+    setting_type = "startup",
+    default_value = 10,
+    minimum_value = 1,
+    maximum_value = 50
   }
 })
