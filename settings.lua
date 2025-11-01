@@ -13,7 +13,7 @@ data:extend({
     localised_name = "app-tweaks-decomposition-science-no-spoilage",
     localised_description = "app-tweaks-decomposition-science-no-spoilage",
     setting_type = "startup",
-    default_value = true
+    default_value = false
   },
   {
     type = "int-setting",
