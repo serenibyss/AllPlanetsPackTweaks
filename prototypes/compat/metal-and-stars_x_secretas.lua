@@ -1,4 +1,4 @@
-if mods["metal-and-stars"] and mods["secretas"] and settings.startup["app-tweaks-overclock-4-module"] then
+if mods["metal-and-stars"] and mods["secretas"] and settings.startup["app-tweaks-overclock-4-module"].value then
 
     -- Add Overclock Module 4
     if (settings.startup["condense-level-4-modules-into-one-technology"].value) then

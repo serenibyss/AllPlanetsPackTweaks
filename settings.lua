@@ -5,7 +5,7 @@ data:extend({
     localised_name = "app-tweaks-overclock-4-module",
     localised_description = "app-tweaks-overclock-4-module",
     setting_type = "startup",
-    default_value = "true"
+    default_value = true
   },
   {
     type = "bool-setting",
@@ -13,7 +13,7 @@ data:extend({
     localised_name = "app-tweaks-decomposition-science-no-spoilage",
     localised_description = "app-tweaks-decomposition-science-no-spoilage",
     setting_type = "startup",
-    default_value = "true"
+    default_value = true
   },
   {
     type = "int-setting",
